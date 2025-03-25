@@ -2,6 +2,11 @@
 
 ![Image](https://ih1.redbubble.net/image.5472413949.3261/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
 
+## Contributers 
+<a href="https://github.com/RealTeamRocket/rocket-app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RealTeamRocket/rocket-app" alt="contrib.rocks image" />
+</a>
+
 <!--
 
 **Here are some ideas to get you started:**
